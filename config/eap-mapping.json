@@ -1,0 +1,29 @@
+[  
+{
+    "name": "organisatie",
+    "type": "voc",
+    "eap": "OSLO-Vocabularium.eap",
+    "diagram": "OSLO-Organisatie",
+    "template": "organisatie-voc.j2",
+	"publication-state": "https://data.vlaanderen.be/id/conceptscheme/StandaardStatus/OntwerpdocumentInOntwikkeling",
+    "publication-date": "12-12-2018",
+    "contributors-file": "stakeholders.csv",
+    "contributors-column": "Organisatie",
+    "config" : "config/config-voc.json",
+    "site": "site-skeleton"
+  },
+  {
+    "name": "organisatie-basis",
+    "type": "ap",
+    "eap": "OSLO-Organisatie-Basis-AP.eap",
+    "diagram": "OSLO-Organisatie-Basis",
+    "template": "organisatie-basis-ap.j2",
+    "title": "Organisatie Basis",
+	"publication-state": "https://data.vlaanderen.be/id/conceptscheme/StandaardStatus/OntwerpdocumentInOntwikkeling",
+    "publication-date": "12-12-2018",
+    "contributors-file": "stakeholders.csv",
+    "contributors-column": "Organisatie",
+    "config" : "config/config-ap.json",
+    "site": "site-skeleton/organisatie-basis"
+  }
+]
