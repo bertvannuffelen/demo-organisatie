@@ -2,7 +2,7 @@
 {
     "name": "organisatie",
     "type": "voc",
-    "eap": "OSLO-Vocabularium.eap",
+    "eap": "OSLO-Organisatie-VOC.eap",
     "diagram": "OSLO-Organisatie",
     "template": "organisatie-voc.j2",
 	"publication-state": "https://data.vlaanderen.be/id/conceptscheme/StandaardStatus/OntwerpdocumentInOntwikkeling",
