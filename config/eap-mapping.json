@@ -5,12 +5,15 @@
     "eap": "OSLO-Organisatie-VOC.eap",
     "diagram": "OSLO-Organisatie",
     "template": "organisatie-voc.j2",
-	"publication-state": "https://data.vlaanderen.be/id/conceptscheme/StandaardStatus/OntwerpdocumentInOntwikkeling",
-    "publication-date": "12-12-2018",
+	"title": "Organisatie",
+	"publication-state": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpdocumentInOntwikkeling",
+    "publication-date": "03-07-2018",
     "contributors-file": "stakeholders.csv",
     "contributors-column": "Organisatie",
     "config" : "config/config-voc.json",
-    "site": "site-skeleton"
+    "site": "site-skeleton",
+	"feedbackurl": "https://github.com/informatievlaanderen/OSLO-Discussion", 
+    "standaardregisterurl" : "https://data.vlaanderen.be/standaarden"
   },
   {
     "name": "organisatie-basis",
@@ -19,11 +22,13 @@
     "diagram": "OSLO-Organisatie-Basis",
     "template": "organisatie-basis-ap.j2",
     "title": "Organisatie Basis",
-	"publication-state": "https://data.vlaanderen.be/id/conceptscheme/StandaardStatus/OntwerpdocumentInOntwikkeling",
-    "publication-date": "12-12-2018",
+	"publication-state": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpdocumentInOntwikkeling",
+    "publication-date": "niet-bepaald",
     "contributors-file": "stakeholders.csv",
     "contributors-column": "Organisatie",
     "config" : "config/config-ap.json",
-    "site": "site-skeleton/organisatie-basis"
+    "site": "site-skeleton/organisatie-basis",
+	"feedbackurl": "https://github.com/informatievlaanderen/OSLO-Discussion", 
+    "standaardregisterurl" : "https://data.vlaanderen.be/standaarden"
   }
 ]
