@@ -1,16 +1,18 @@
-{
-  "name": "organisatie-basis",
-  "type": "ap",
-  "eap": "OSLO-Organisatie-Basis-AP.eap",
-  "diagram": "OSLO-Organisatie-Basis",
-  "template": "organisatie-basis-ap.j2",
-  "title": "Organisatie Basis",
-  "publication-state": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpdocumentInOntwikkeling",
-  "publication-date": "niet-bepaald",
-  "contributors-file": "stakeholders.csv",
-  "contributors-column": "Organisatie",
-  "config": "config/config-ap.json",
-  "site": "site-skeleton/organisatie-basis",
-  "feedbackurl": "https://github.com/informatievlaanderen/OSLO-Discussion",
-  "standaardregisterurl": "https://data.vlaanderen.be/standaarden"
-}
+[
+  {
+    "name": "organisatie-basis",
+    "type": "ap",
+    "eap": "OSLO-Organisatie-Basis-AP.eap",
+    "diagram": "OSLO-Organisatie-Basis",
+    "template": "organisatie-basis-ap.j2",
+    "title": "Organisatie Basis",
+    "publication-state": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpdocumentInOntwikkeling",
+    "publication-date": "niet-bepaald",
+    "contributors-file": "stakeholders.csv",
+    "contributors-column": "Organisatie",
+    "config": "config/config-ap.json",
+    "site": "site-skeleton/organisatie-basis",
+    "feedbackurl": "https://github.com/informatievlaanderen/OSLO-Discussion",
+    "standaardregisterurl": "https://data.vlaanderen.be/standaarden"
+  }
+]
