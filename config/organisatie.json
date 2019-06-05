@@ -1,0 +1,16 @@
+{
+  "name": "organisatie",
+  "type": "voc",
+  "eap": "OSLO-Organisatie-VOC.eap",
+  "diagram": "OSLO-Organisatie",
+  "template": "organisatie-voc.j2",
+  "title": "Organisatie",
+  "publication-state": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpdocumentInOntwikkeling",
+  "publication-date": "03-07-2018",
+  "contributors-file": "stakeholders.csv",
+  "contributors-column": "Organisatie",
+  "config": "config/config-voc.json",
+  "site": "site-skeleton",
+  "feedbackurl": "https://github.com/informatievlaanderen/OSLO-Discussion",
+  "standaardregisterurl": "https://data.vlaanderen.be/standaarden"
+}
